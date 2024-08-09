@@ -1,0 +1,1 @@
+Once plugged into the windows 10 machine it will extract wifi info including user and passwords then send the information to the desired discord account via API
